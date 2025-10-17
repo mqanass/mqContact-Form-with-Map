@@ -22,7 +22,7 @@ A linktree is a single page that contains multiple relevant links for quick acce
 - [Contact Form Demo](YOUR_CONTACT_FORM_URL_HERE)
 - [Author’s GitHub](https://github.com/mqanass)
 
-## 🌍 Map
+### 🌍 Map
 
 - [Google Maps Location (if available)](YOUR_GOOGLE_MAPS_LINK_HERE)
 
